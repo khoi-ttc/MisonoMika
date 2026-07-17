@@ -1,4 +1,4 @@
-# Asano Tanch | 浅野てんき, a fork of Ōɖìղ • オーディン
+# Misono Mika | 浅野てんき, a fork of Ōɖìղ • オーディン
 
 
 a modular telegram Group management Python bot running on python3 with a sqlalchemy database.
@@ -11,13 +11,15 @@ originally a marie fork
 
 <details>
   <summary>How to setup</summary>
-  
-- `git clone https://github.com/fukiame/AsanoTanch`
-- `cd OdinRobot`
+  Python:
+- `git clone https://github.com/khoi-ttc/MisonoMika`
+- `cd MisonoMika`
 - `cp sample_config.ini config.ini`
 - *Fill in all the vars*
 - `pip3 install -U -r requirements.txt`
 - *And finally* `python3 -m tg_bot`
+  Python:
+- '
 
 *Enjoy!*
 </details>
