@@ -693,7 +693,7 @@ def main():
         updater.start_polling(
                 timeout=15, read_latency=4, allowed_updates=allowed_updates, drop_pending_updates=KInit.DROP_UPDATES)
         print(f"updater started, long polling, bot: @{dispatcher.bot.username}")
-    dispatcher.bot.sendMessage(OWNER_ID, "Master, I'm awake!")
+    dispatcher.bot.sendMessage(OWNER_ID, "Senser, I'm finally here★")
 
 
 if __name__ == "__main__":
