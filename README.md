@@ -18,9 +18,6 @@ originally a marie fork
 - *Fill in all the vars*
 - `pip3 install -U -r requirements.txt`
 - *And finally* `python3 -m tg_bot`
-  Python:
-- '
-
 *Enjoy!*
 </details>
 
