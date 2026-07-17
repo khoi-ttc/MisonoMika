@@ -40,7 +40,7 @@ stream_handler.setLevel(logging.WARNING)
 debug_handler.setLevel(logging.DEBUG)
 
 logging.basicConfig(handlers = [file_handler, stream_handler, debug_handler], level = logging.DEBUG)
-log = logging.getLogger('AsanoTanch')
+log = logging.getLogger('MisonoMika')
 
 log.info("logger started, probably. project maintained by t.me/fukiame")
 

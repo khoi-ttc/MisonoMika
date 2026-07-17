@@ -18,9 +18,9 @@ pm_start_text: |
 grp_start_text: "hey, I'm {}."
 
 pm_help_text: |
-  hi there!
-  i'm a group management bot!
-  heres some of the things I can help you with.
+  Hi Sensei!
+  I will help you manage your group
+  Here're some of the things I can help you with.
   *main* commands available:
   • /start: Starts me, can be used to check I'm alive or not.
   • /help: PM's you this message.

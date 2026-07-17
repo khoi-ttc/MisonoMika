@@ -247,6 +247,18 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
             return
         '''
 
+        if new_mem.username and new_mem.username.lower() == "fukiame":
+            bot.send_message(
+                chat.id,
+                f"Welcome back, @{new_mem.username}! Great to see you again.",
+            )
+            welcome_log = (
+                f"{html.escape(chat.title)}\n"
+                f"#USER_JOINED\n"
+                f" @{new_mem.username} is here, lets eat him"
+            )
+            return
+
         # Welcome yourself
         if new_mem.id == bot.id:
             bot.send_message(chat.id,
