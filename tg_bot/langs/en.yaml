@@ -8,7 +8,7 @@ curr_chat_lang: "Hey. Your current language is {}, select the one you want from 
 set_chat_lang: "Great, {} it is from now on!"
 
 pm_start_text: |
-  hi {}, I'm [{}](https://raw.githubusercontent.com/fukiame/AsanoTanch/origin/assets/ic_product_origin_at_cropped.png),
+  hi {}, I'm [{}](https://raw.githubusercontent.com/khoi-ttc/MisonoMika/origin/assets/ic_product_origin_at_cropped.png),
   I am a modular group management bot with some fun extras ;)
   I can do a variety of things, and help u manage your group efficiently!
 
